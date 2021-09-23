@@ -30,3 +30,13 @@ sanity deploy
 - [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+
+## Documentation
+
+- [Getting Started with Sanity CLI](https://www.sanity.io/docs/getting-started-with-sanity-cli)
+- [Starter projects](https://www.sanity.io/docs/starters-on-sanity-io-create)
+- [Sanity Studio](https://www.sanity.io/docs/sanity-studio)
+- [Content Lake](https://www.sanity.io/docs/datastore)
+- [Build with Sanity](https://www.sanity.io/docs/build-with-sanity)
+- [Reference docs](https://www.sanity.io/docs/reference)
+
