@@ -1,5 +1,7 @@
 # Sanity Blogging Content Studio
 
+- Hosted Studio: https://jimmys-sanitystudio.sanity.studio/desk
+
 Repository housing infrastructure supporting my [Sanity.io](https://www.sanity.io/) CMS Setup.
 
 Sanity Content Studio is an open source real-time content editing environment connected to the Sanity backend.
