@@ -6,6 +6,9 @@ Sanity Content Studio is an open source real-time content editing environment co
 
 ## Usage
 
+- Project ID: `khs0dp2y` - needed for Content Lake access
+- Database: `production`
+
 ```powershell
 # install and initialize (follow prompts)
 npm install -g @sanity/cli && sanity init
