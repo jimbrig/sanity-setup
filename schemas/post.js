@@ -18,6 +18,12 @@ export default {
       },
     },
     {
+      title: "Time to Read",
+      name: "time_to_read",
+      type: "number",
+      validation: Rule => Rule.required().lessThan(20)
+    },
+    {
       name: 'author',
       title: 'Author',
       type: 'reference',
